@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fredrickjere36-tech.github.io/jerevolt-we/sitemap.xml
